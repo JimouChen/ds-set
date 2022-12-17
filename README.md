@@ -3,7 +3,7 @@
 
 # 🔥 Usage && Quick Start
 - setup: 
-import "github.com/JimouChen/ds-set/easyset"`
+`import "github.com/JimouChen/ds-set/easyset"`
 - `go mod tidy` in terminal or use `go get` to download package
 - just code
 
